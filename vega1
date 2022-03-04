@@ -63,6 +63,7 @@
               "title": "PM10"
           }
       }
+  }
 };
 
       // Embed the visualization in the container with id `vis`
